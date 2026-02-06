@@ -1,11 +1,11 @@
 ---
-title: Advanced blocking
+title: Bloccaggio avanzato
 sidebar_position: 3
 ---
 
-![Advanced blocking](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/advanced-blocking.png)
+![Bloccaggio avanzato](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/advanced-blocking.png)
 
-_Advanced blocking_ is optional, but when enabled it unlocks stronger filtering: for example, it lets us apply extended rules to block tough cases such as some YouTube ads. You decide whether to grant Safari the extra permissions and whether you want that extra power.
+Il _bloccaggio avanzato_ è opzionale, ma quando abilitato sblocca un filtraggio più potente: per esempio, ci permette di applicare regole estese per bloccare casi difficili come alcune inserzioni di YouTube. You decide whether to grant Safari the extra permissions and whether you want that extra power.
 
 Here you can turn on the _AdGuard Extra_ userscript — if there’s a website where ads just won’t go, like Facebook or YouTube.
 

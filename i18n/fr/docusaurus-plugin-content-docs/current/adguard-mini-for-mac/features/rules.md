@@ -3,13 +3,13 @@ title: Règles utilisateur
 sidebar_position: 4
 ---
 
-![User rules](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/user-rules.png)
+![Règles utilisateur](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/user-rules.png)
 
-User rules can be used to customize ad blocking when you want something personal: exclude a website from filtering, unblock requests, or allow scripts on a certain webpage. Elles peuvent être ajoutées manuellement, importées ou créées automatiquement lorsque vous bloquez un élément sur la page.
+Les règles utilisateur peuvent être utilisées pour personnaliser le blocage des publicités lorsque vous souhaitez quelque chose de personnel : exclure un site Web du filtrage, débloquer des requêtes ou autoriser des scripts sur une certaine page Web. Elles peuvent être ajoutées manuellement, importées ou créées automatiquement lorsque vous bloquez un élément sur la page.
 
 Pour ajouter vos propres règles de filtrage, utilisez une [syntaxe spéciale](/general/ad-filtering/create-own-filters).
 
-### Rule constructor
+### Constructeur de règles
 
 We understand that writing filtering rules yourself is not every user’s cup of tea. That’s why you can just click _Create rule_ to use a rule constructor: choose what you want to do, click through a few options, and you’re done. Block images, videos, scripts, or any other elements you’d rather not see on a page.
 

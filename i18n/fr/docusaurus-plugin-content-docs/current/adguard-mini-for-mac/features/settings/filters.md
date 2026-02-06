@@ -13,7 +13,7 @@ Filters are combined into eight thematic categories: _Ad Blocking, Privacy, Soci
 
 Apprenez plus sur les [Filtres AdGuard](/general/ad-filtering/adguard-filters) ou [le filtrage des publicités en général](/general/ad-filtering/how-ad-blocking-works).
 
-Changes in _Filters_ are also reflected in _Settings_ → _Safari extensions_.
+Les modifications apportées aux _Filtres_ sont également reflétées dans _Paramètres_ → _Extensions Safari_.
 
 ## Filtres personnalisés
 

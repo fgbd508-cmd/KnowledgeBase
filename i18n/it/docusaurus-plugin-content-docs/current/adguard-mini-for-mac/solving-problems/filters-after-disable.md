@@ -5,7 +5,7 @@ sidebar_position: 3
 
 :::info
 
-This article is about AdGuard Mini for Mac, which safeguards only your Safari browser. To protect your Mac entirely, [download the AdGuard app](https://agrd.io/download-kb-adblock)
+Questo articolo riguarda AdGuard Mini per Mac, che protegge solo il tuo browser Safari. Per proteggere completamente il tuo Mac, [scarica l'app AdGuard](https://agrd.io/download-kb-adblock)
 
 :::
 
@@ -17,7 +17,7 @@ If filtering doesn’t stop when AdGuard Mini for Mac is disabled, it may be bec
 2. Fai clic su _Safari_ nel menu nell'angolo in alto a sinistra.
 3. Fai clic su _Impostazioni…_ → _Estensioni_.
 4. Clear the checkboxes for AdGuard Mini’s extensions: _Custom_, _General_, _Other_, _Privacy_, _Security_, _Social_, and _AdGuard for Safari_.
-   ![Unchecked extensions](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/unchecked-extensions.png)
+   ![Estensioni non spuntate](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/unchecked-extensions.png)
 5. Riavvia Safari.
 6. Return to Safari → _Settings..._ → _Extensions_ and re-enable the AdGuard extensions.
 

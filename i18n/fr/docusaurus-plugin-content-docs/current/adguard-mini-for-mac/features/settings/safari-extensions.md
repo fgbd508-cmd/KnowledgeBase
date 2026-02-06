@@ -3,9 +3,9 @@ title: Extensions Safari
 sidebar_position: 3
 ---
 
-![Extensions tab](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/extensions.png)
+![Onglet extensions](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/extensions.png)
 
-Safari extensions are mechanisms that allow implementing content blockers — thematic clusters of filters. For example, privacy-related filters are included in the content blocker with the corresponding name — _AdGuard Privacy_.
+Les extensions Safari sont des mécanismes qui autorisent la mise en œuvre de bloqueurs de contenu — des groupes thématiques de filtres. For example, privacy-related filters are included in the content blocker with the corresponding name — _AdGuard Privacy_.
 
 Content blockers were designed for two reasons: to structure filters and to conform to Apple’s restrictions.
 
@@ -15,15 +15,15 @@ Content blockers were designed for two reasons: to structure filters and to conf
 
 Même si la limite a été augmentée, la structure des bloqueurs de contenu est restée la même.
 
-In _Safari extensions_, you can see which content blockers are enabled, how many rules each of them is using, and which filters are functioning.
+Dans les _extensions Safari_, vous pouvez voir quels bloqueurs de contenu sont activés, combien de règles chacun d'eux utilise et quels filtres sont fonctionnels.
 
 :::tip
 
-You can manage enabled filters in _Settings_ → _Filters_. In _Safari extensions_, you can only see the list of enabled filters and the number of enabled rules.
+You can manage enabled filters in _Settings_ → _Filters_. Dans les _extensions Safari_, vous ne pouvez voir que la liste des filtres activés et le nombre de règles activées.
 
 :::
 
-## List of AdGuard Mini’s Safari extensions
+## La liste des extensions Safari d'AdGuard Mini
 
 ### AdGuard Général
 

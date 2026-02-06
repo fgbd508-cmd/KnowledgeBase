@@ -1,13 +1,13 @@
 ---
-title: Features
+title: Funzioni
 sidebar_position: 1
 ---
 
-- [Safari protection](/adguard-mini-for-mac/features/safari-protection.md)
+- [Protezione Safari](/adguard-mini-for-mac/features/safari-protection.md)
 
-  Core filtering feature with customizable options
+  Funzione basilare di filtraggio con opzioni personalizzabili
 
-- [Advanced blocking](/adguard-mini-for-mac/features/advanced-blocking.md)
+- [Blocco Avanzato](/adguard-mini-for-mac/features/advanced-blocking.md)
 
   Unlocks stronger filtering capabilities
 

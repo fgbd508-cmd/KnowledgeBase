@@ -5,7 +5,7 @@ sidebar_position: 1
 
 :::info
 
-This article is about AdGuard Mini for Mac, which safeguards only your Safari browser. To protect your Mac entirely, [download the AdGuard app](https://agrd.io/download-kb-adblock)
+Questo articolo riguarda AdGuard Mini per Mac, che protegge solo il tuo browser Safari. Per proteggere completamente il tuo Mac, [scarica l'app AdGuard](https://agrd.io/download-kb-adblock)
 
 :::
 
@@ -30,7 +30,7 @@ However, **one extension can contain only up to 150,000 rules**. Se superi quest
 
 1. Open AdGuard Mini app.
 2. Go to _Settings_ → _Safari extensions_.
-3. Below each extension, you can see the enabled filters and the number of active rules.
-   ![Extensions tab](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/extensions.png)
+3. Sotto ogni estensione, puoi vedere i filtri abilitati e il numero di regole attive.
+   ![Scheda estensioni](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/extensions.png)
 
 Se in un blocco dei contenuti sono abilitate più di 150.000 regole, potrebbe essere necessario disabilitarne alcuni filtri o regole utente. Vai su _Filtri_, seleziona la categoria problematica e disabilita i filtri o le regole utente che non ti servono.

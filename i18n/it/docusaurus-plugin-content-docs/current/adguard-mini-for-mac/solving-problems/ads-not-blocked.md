@@ -5,7 +5,7 @@ sidebar_position: 2
 
 :::info
 
-This article is about AdGuard Mini for Mac, which safeguards only your Safari browser. To protect your Mac entirely, [download the AdGuard app](https://agrd.io/download-kb-adblock)
+Questo articolo riguarda AdGuard Mini per Mac, che protegge solo il tuo browser Safari. Per proteggere completamente il tuo Mac, [scarica l'app AdGuard](https://agrd.io/download-kb-adblock)
 
 :::
 
@@ -17,14 +17,14 @@ In some cases, filtering may not work and ads may still be displayed even though
 2. Fai clic su _Safari_ nel menu nell'angolo in alto a sinistra.
 3. Fai clic su _Impostazioni…_ → _Estensioni_.
 4. Clear the checkboxes for AdGuard Mini’s extensions: _Custom_, _General_, _Other_, _Privacy_, _Security_, _Social_, and _AdGuard for Safari_.
-   ![Unchecked extensions](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/unchecked-extensions.png)
+   ![Estensioni non spuntate](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/unchecked-extensions.png)
 5. Riavvia Safari.
 6. Return to Safari → _Settings..._ → _Extensions_ and re-enable the AdGuard extensions.
 7. Open AdGuard Mini’s menu.
-8. Click _Check for updates_ icon.
-   ![Update button \*mobile](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/update-button.png)
-9. Do not close the AdGuard Mini window until the filters are updated.
+8. Clicca l'icona _Controlla aggiornamenti_.
+   ![Pulsante aggiorna \*mobile](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/update-button.png)
+9. Non chiudere la finestra di AdGuard Mini finché i filtri non vengono aggiornati.
 
-If this doesn’t help and ads are still not being blocked, please contact our support at [support@adguard.com](mailto:support@adguard.com).
+Se il problema persiste e gli annunci continuano a non essere bloccati, contatta il nostro supporto all'indirizzo [support@adguard.com](mailto:support@adguard.com).
 
-If you only have problems with a specific page or website, you can report it directly from the browser: click the AdGuard Mini icon next to the Safari search bar and then click _Report an issue_.
+Se riscontri problemi solo con una pagina o un sito web specifico, puoi segnalarlo direttamente dal browser: clicca l'icona AdGuard mini accanto alla barra di ricerca di Safari e poi clicca _Segnala un problema_.

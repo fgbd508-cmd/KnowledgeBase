@@ -17,8 +17,8 @@ Changes in _Filters_ are also reflected in _Settings_ → _Safari extensions_.
 
 ## Filtri personalizzati
 
-![Create custom filter](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/create-custom.png)
+![Crea filtro personale](https://cdn.adtidy.org/content/kb/ad_blocker/mini_mac/create-custom.png)
 
-To add a custom filter, go to _Settings_ → _Filters_ → _Custom filters_ and enter a URL or a local file path in the relevant field.
+Per aggiungere un filtro personale, vai in _Impostazioni_ → _Filtri_ → _Filtri personali_ e inserisci un URL o un percorso locale di file nel campo rilevante.
 
 You can find a lot of filters at [filterlists.com](https://filterlists.com/).
