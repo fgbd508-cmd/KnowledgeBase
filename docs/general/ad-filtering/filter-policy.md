@@ -1,4 +1,4 @@
----
+google---
 title: AdGuard filter policy
 sidebar_position: 6
 ---
